@@ -3,9 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* html,body{
+html,body{
     width: 100%;
-} */
+}
 .sect1{
     height: 80px;
     width: 100%;
@@ -16,6 +16,8 @@
     justify-content: space-around;
     align-items: center;
     position: relative;
+    
+
     
 }
 .brand{
